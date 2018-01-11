@@ -1,0 +1,11 @@
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\bin\Debug\netcoreapp2.0\Company2.deps.json
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\bin\Debug\netcoreapp2.0\Company2.runtimeconfig.json
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\bin\Debug\netcoreapp2.0\Company2.runtimeconfig.dev.json
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\bin\Debug\netcoreapp2.0\Company2.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\bin\Debug\netcoreapp2.0\Company2.pdb
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\obj\Debug\netcoreapp2.0\Company2.csprojResolveAssemblyReference.cache
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\obj\Debug\netcoreapp2.0\Company2.csproj.CoreCompileInputs.cache
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\obj\Debug\netcoreapp2.0\Company2.AssemblyInfoInputs.cache
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\obj\Debug\netcoreapp2.0\Company2.AssemblyInfo.cs
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\obj\Debug\netcoreapp2.0\Company2.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2\obj\Debug\netcoreapp2.0\Company2.pdb
