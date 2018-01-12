@@ -1,0 +1,16 @@
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.Test.deps.json
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.Test.runtimeconfig.json
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.Test.runtimeconfig.dev.json
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.Test.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.Test.pdb
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\obj\Debug\netcoreapp2.0\Company2.Test.csprojResolveAssemblyReference.cache
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\obj\Debug\netcoreapp2.0\Company2.Test.csproj.CoreCompileInputs.cache
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\obj\Debug\netcoreapp2.0\Company2.Test.AssemblyInfoInputs.cache
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\obj\Debug\netcoreapp2.0\Company2.Test.AssemblyInfo.cs
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\obj\Debug\netcoreapp2.0\Company2.Test.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\obj\Debug\netcoreapp2.0\Company2.Test.pdb
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.dll
+C:\Users\Kristin.Kristin-THINK\source\repos\Company2\Company2.Test\bin\Debug\netcoreapp2.0\Company2.pdb
