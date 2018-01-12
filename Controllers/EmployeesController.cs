@@ -30,7 +30,7 @@ namespace Company2.Controllers
         {
             if (id == null)
             {
-                return NotFound();
+                return BadRequest();
             }
 
             var employee = await _context.Employees
@@ -77,7 +77,7 @@ namespace Company2.Controllers
         {
             if (id == null)
             {
-                return NotFound();
+                return BadRequest();
             }
 
             var employee = await _context.Employees.SingleOrDefaultAsync(m => m.ID == id);
@@ -94,7 +94,7 @@ namespace Company2.Controllers
         {
             if (id == null)
             {
-                return NotFound();
+                return BadRequest();
             }
 
             var employeeToUpdate = await _context.Employees.SingleOrDefaultAsync(e => e.ID == id);
@@ -120,7 +120,7 @@ namespace Company2.Controllers
         {
             if (id == null)
             {
-                return NotFound();
+                return BadRequest();
             }
 
             var employee = await _context.Employees
